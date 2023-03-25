@@ -4,6 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 As a data analyst, I have a strong foundation in data management and analysis. My expertise lies in identifying trends and patterns in large and complex data sets and using that knowledge to drive business success. I am skilled in a variety of data analysis tools, and techniques, including data visualization, statistical analysis, data mining, and creative dashboards. I am passionate about turning data into insights and solutions, and I am always seeking new ways to drive data-driven decision making.<br>
+
 You can check my work by opening my repositories and feel free to contact me on my Linkedin for any kind of feedbacks.
 
 # 💫 About Me:
