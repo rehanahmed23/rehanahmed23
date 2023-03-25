@@ -13,7 +13,6 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 * Power BI
 * SQL
 * Tableau
-* Alteryx
 * Python
 * Data analysis
 * Business analysis 
