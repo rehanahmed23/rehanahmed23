@@ -30,7 +30,3 @@ You can check my work by opening my repositories and feel free to contact me on 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!---
-vinitsangoi/vinitsangoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
