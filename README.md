@@ -1,4 +1,4 @@
-![logo][(https://github.com/rehanahmed23/rehanahmed23/blob/main/Github%20Banner.png)](https://github.com/rehanahmed23/rehanahmed23/blob/main/Screenshot%202023-03-24%20214624.png)
+![logo](https://github.com/rehanahmed23/rehanahmed23/blob/main/Screenshot%202023-03-24%20214624.png)
 ### Hi there 👋, my name is Rehan
 #### Welcome to my Github Profile
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
