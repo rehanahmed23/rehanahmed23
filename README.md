@@ -8,7 +8,7 @@ As a data analyst, I have a strong foundation in data management and analysis. M
 You can check my work by opening my repositories and feel free to contact me on my [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://https://www.linkedin.com/in/rehan-a-0967161b7//)  for any kind of feedbacks.
 
 # 💫 About Me:
-👀 I’m interested in Data Analytics & Business Intelligence<br>🌱 I’m currently sutdying at Durham College<br>💞️ I’m looking for opportunities in Data Science Industry<br>
+👀 I’m interested in Data Analytics & Business Intelligence<br>🌱 I’m currently studying at Durham College<br>💞️ I’m looking for opportunities in Data Science Industry<br>
 
 
 # 💻 Skills: 
