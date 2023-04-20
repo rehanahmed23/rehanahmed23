@@ -9,7 +9,7 @@ You can check my work by opening my repositories and feel free to contact me on 
 
 # 💫 About Me:
 👀 I’m interested in Data Analytics & Business Intelligence<br>🌱 I’m currently studying at Durham College<br>💞️ I’m looking for opportunities in Data Science Industry<br>
-![My Image](rehanahmed23/my-image.jpg)
+![My Image](rehanahmed23/Screenshot 2023-04-19 230333.png)
 
 
 # 💻 Skills: 
