@@ -14,10 +14,10 @@ You can check my work by opening my repositories and feel free to contact me on 
 # 💻 Skills: 
 * Power BI
 * SQL
-* Tableau
 * Python
-* Data analysis
-* Business analysis 
+* MS-Excel
+* Data Analysis
+* Predictive Analytics
 
 ## 🌐 Socials:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rehan-a-0967161b7//) 
