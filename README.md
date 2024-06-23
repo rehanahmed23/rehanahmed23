@@ -16,8 +16,10 @@ You can check my work by opening my repositories and feel free to contact me on 
 * SQL
 * Python
 * MS-Excel
+* Snowflake
 * Data Analysis
 * Predictive Analytics
+* Data Warehousing
 
 ## 🌐 Socials:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rehan-a-0967161b7//) 
